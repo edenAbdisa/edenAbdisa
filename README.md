@@ -1,7 +1,5 @@
-### Hi there 👋
+Hi there 👋
 
-<!--
-**edenAbdisa/edenAbdisa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -10,4 +8,4 @@ Here are some ideas to get you started:
 - 👯 I’m looking for freelance remote job. 
 - 💬 Ask me about ...
 - 📫 How to reach me: edenabdisa90@gmail.com , https://www.linkedin.com/in/eden-abdisa-1990/ 
--->
+
