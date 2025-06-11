@@ -1,6 +1,6 @@
 Hello there 👋
 
-- 🔭 Currently I am learning my master in Data science at Clakrson university.
+- 🔭 Currently I am learning my master in Data science at Clarkson university.
 
 💻 I am proficient in various tools and languages crucial for data science:
 - Languages: Python, R
