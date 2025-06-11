@@ -10,10 +10,9 @@ Hello there 👋
 - Database: SQL, MongoDB
 
 🐰 I have worked using different languages and frameworks. For instance 
-      Backend:- Laravel, NodeJs
-      Web frontend:- ReactJs, Vue
-      
-- 🌱 I am ISTQB certified tester.
+      - Backend:- Laravel, NodeJs
+      - Web frontend:- ReactJs, Vue
+      - I am ISTQB certified tester.
 
 🌱 I am committed to continuous learning and growth in data science methodologies and best practices.
 
