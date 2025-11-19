@@ -18,7 +18,7 @@ I am a Data Science Master’s student at Clarkson University with a strong pass
 💻 Technical Skills:
 - Programming: Python, R, JS
 - Frameworks: TensorFlow, PyTorch
-- Data Science & ML Tools: Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch, NLTK, spaCy
+- Data Science & ML Tools: NLTK, NumPy,Pandas, Scikit-learn, TensorFlow, PyTorch, spaCy
 - Visualization: Matplotlib, Seaborn, Tableau, Power BI
 - Database: SQL, MongoDB
 - Software Engineering
