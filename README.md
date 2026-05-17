@@ -1,6 +1,6 @@
 👋 Hi there, I'm Eden!
 
-I am a Data Science Master’s student at Clarkson University with a strong passion for Machine Learning, NLP, and Data Analytics.
+I am a Data Science Master’s graduate from Clarkson University with a strong passion for Machine Learning, NLP, and Data Analytics.
 
 🚀 What I Do
 
