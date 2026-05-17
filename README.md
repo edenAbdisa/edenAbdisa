@@ -10,10 +10,10 @@ I build models that learn from it.
 ```
 🧠 What I Do
 #### ✦ Machine Learning
-✦ Natural Language Processing
-✦ Data Analytics
-✦ Intelligent Automation
-✦ Scalable Software Systems
+#### ✦ Natural Language Processing
+#### ✦ Data Analytics
+#### ✦ Intelligent Automation
+✦. Scalable Software Systems
 
 I enjoy creating solutions that are not only accurate, but meaningful — whether that means extracting insights from messy data, training NLP models, or designing systems that solve real-world problems.
 
