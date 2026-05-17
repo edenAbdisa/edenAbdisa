@@ -20,7 +20,7 @@ I enjoy creating solutions that are not only accurate, but meaningful — whethe
 ⚙️ My Tech Stack
 
 #### Languages
-    Python • R • JavaScript • SQL
+####    Python • R • JavaScript • SQL
 
 #### AI / ML
     TensorFlow • PyTorch • Scikit-learn • spaCy • NLTK • Pandas • NumPy
