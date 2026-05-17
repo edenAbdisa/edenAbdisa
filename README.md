@@ -1,35 +1,49 @@
-👋 Hi there, I'm Eden!
+I'm Eden I teach data to speak!
 
-I am a Data Science Master’s graduate from Clarkson University with a strong passion for Machine Learning, NLP, and Data Analytics.
+I’m a Data Science Master’s graduate from Clarkson University who enjoys building systems that can learn, predict, analyze, and understand human language.
 
-🚀 What I Do
+Some people see datasets.
+I see patterns waiting to become decisions.
 
-🔬 Machine Learning & NLP
-- Building and training ML models for classification, regression, and clustering
-- Working with Natural Language Processing: text preprocessing, sentiment analysis, text classification
-- Applying deep learning with TensorFlow and PyTorch
+Some people read text.
+I build models that learn from it.
 
-📊 Data Analysis & Visualization
+🧠 What I Do
+✦ Machine Learning
+✦ Natural Language Processing
+✦ Data Analytics
+✦ Intelligent Automation
+✦ Scalable Software Systems
 
-- Skilled at cleaning, transforming, and analyzing data
-- Visual storytelling using Matplotlib, Seaborn, and Tableau
-- Strong statistical understanding and experiment design
+I enjoy creating solutions that are not only accurate, but meaningful — whether that means extracting insights from messy data, training NLP models, or designing systems that solve real-world problems.
 
-💻 Technical Skills:
-- Programming: Python, R, JS
-- Frameworks: TensorFlow, PyTorch
-- Data Science & ML Tools: NLTK, NumPy,Pandas, Scikit-learn, TensorFlow, PyTorch, spaCy
-- Visualization: Matplotlib, Seaborn, Tableau, Power BI
-- Database: SQL, MongoDB
-- Software Engineering
-    Backend: Laravel, Node.js
-    Frontend: React.js, Vue.js, ISTQB Certified Tester (strong QA & software quality background)
+⚙️ My Tech Stack
 
-🌱 Currently Growing In
-- Advanced NLP (LLMs, transformers, embeddings)
-- Time series forecasting
-- Reinforcement Learning
-- Cloud ML (AWS, GCP)
+Languages
+    Python • R • JavaScript • SQL
+
+AI / ML
+    TensorFlow • PyTorch • Scikit-learn • spaCy • NLTK • Pandas • NumPy
+
+Visualization
+    Tableau • Power BI • Matplotlib • Seaborn
+
+Development
+    React.js • Vue.js • Node.js • Laravel
+
+Databases
+    MongoDB • SQL
+
+Bonus Skill
+    ISTQB Certified Tester, because intelligent systems should also be reliable systems.
+
+🚀 A Few Things I’ve Worked On
+
+1. NLP pipelines for skill extraction from job descriptions
+2. Market trend analysis from job postings
+3. ML models for prediction & classification
+4. Data storytelling through analytics & visualization
+5. Turning unstructured data into actionable insight
  
 
 I enjoy turning data into meaningful insights, building intelligent systems, and solving real-world problems with scalable solutions.
