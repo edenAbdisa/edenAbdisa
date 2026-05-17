@@ -20,22 +20,22 @@ I enjoy creating solutions that are not only accurate, but meaningful — whethe
 ⚙️ My Tech Stack
 
 #### Languages
-##   Python • R • JavaScript • SQL
+########     Python • R • JavaScript • SQL
 
 #### AI / ML
-    TensorFlow • PyTorch • Scikit-learn • spaCy • NLTK • Pandas • NumPy
+########     TensorFlow • PyTorch • Scikit-learn • spaCy • NLTK • Pandas • NumPy
 
 #### Visualization
-    Tableau • Power BI • Matplotlib • Seaborn
+########     Tableau • Power BI • Matplotlib • Seaborn
 
 #### Development
-    React.js • Vue.js • Node.js • Laravel
+########     React.js • Vue.js • Node.js • Laravel
 
 #### Databases
-    MongoDB • SQL
+########     MongoDB • SQL
 
 #### Bonus Skill
-    ISTQB Certified Tester, because intelligent systems should also be reliable systems.
+########     ISTQB Certified Tester, because intelligent systems should also be reliable systems.
 
 🚀 A Few Things I’ve Worked On
 
