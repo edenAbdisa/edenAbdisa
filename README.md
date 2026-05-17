@@ -2,12 +2,12 @@
 
 I’m a Data Science Master’s graduate from Clarkson University who enjoys building systems that can learn, predict, analyze, and understand human language.
 
-Some people see datasets.
+```Some people see datasets.
 I see patterns waiting to become decisions.
 
 Some people read text.
 I build models that learn from it.
-
+```
 🧠 What I Do
 ✦ Machine Learning
 ✦ Natural Language Processing
