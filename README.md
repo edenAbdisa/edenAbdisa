@@ -9,7 +9,7 @@ Some people read text.
 I build models that learn from it.
 ```
 🧠 What I Do
-✦ Machine Learning
+#### ✦ Machine Learning
 ✦ Natural Language Processing
 ✦ Data Analytics
 ✦ Intelligent Automation
