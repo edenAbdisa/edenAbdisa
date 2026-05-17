@@ -1,4 +1,4 @@
-I'm Eden I teach data to speak!
+# I'm Eden I teach data to speak!
 
 I’m a Data Science Master’s graduate from Clarkson University who enjoys building systems that can learn, predict, analyze, and understand human language.
 
