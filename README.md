@@ -37,7 +37,7 @@ I enjoy creating solutions that are not only accurate, but meaningful — whethe
 #### Bonus Skill
 ######     ISTQB Certified Tester, because intelligent systems should also be reliable systems.
 
-🚀 A Few Things I’ve Worked On
+## A Few Things I’ve Worked On
 
 1. NLP pipelines for skill extraction from job descriptions
 2. Market trend analysis from job postings
@@ -48,4 +48,4 @@ I enjoy creating solutions that are not only accurate, but meaningful — whethe
 
 I enjoy turning data into meaningful insights, building intelligent systems, and solving real-world problems with scalable solutions.
 
-📫 How to reach me: edenabdisa90@gmail.com , https://www.linkedin.com/in/eden-abdisa-1990/ 
+How to reach me: edenabdisa90@gmail.com , https://www.linkedin.com/in/eden-abdisa-1990/ 
