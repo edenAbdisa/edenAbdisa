@@ -11,7 +11,7 @@ I’m a Data Science Master’s graduate from Clarkson University who enjoys bui
 5. Turning unstructured data into actionable insight
 
 ## What I Do
-### ✦ Machine Learning
+#### ✦ Machine Learning
 ### ✦ Natural Language Processing
 ### ✦ Data Analytics
 ### ✦ Intelligent Automation
