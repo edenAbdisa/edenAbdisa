@@ -32,8 +32,11 @@ I’m a Data Science Master’s graduate from Clarkson University who enjoys bui
 #### Databases
 ######     MongoDB • SQL
 
-#### Bonus Skill
-######     ISTQB Certified Tester, because intelligent systems should also be reliable systems.
+## Certification and Online Learning 					
+
+###### ASTQB - ISTQB : View Certificate
+###### Generative AI - Vanderbilt University : View Certificate
+
 
 I enjoy turning data into meaningful insights, building intelligent systems, and solving real-world problems with scalable solutions.
 
