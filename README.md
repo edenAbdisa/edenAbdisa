@@ -15,10 +15,7 @@ I’m a Data Science Master’s graduate from Clarkson University who enjoys bui
 #### ✦ Intelligent Automation
 #### ✦ Scalable Software Systems
 
-
-
-⚙️ My Tech Stack
-
+## My Tech Stack
 #### Languages
 ######     Python • R • JavaScript • SQL
 
@@ -37,8 +34,6 @@ I’m a Data Science Master’s graduate from Clarkson University who enjoys bui
 #### Bonus Skill
 ######     ISTQB Certified Tester, because intelligent systems should also be reliable systems.
 
-
- 
 
 I enjoy turning data into meaningful insights, building intelligent systems, and solving real-world problems with scalable solutions.
 
