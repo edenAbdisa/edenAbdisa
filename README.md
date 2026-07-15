@@ -1,23 +1,21 @@
 # I'm Eden I teach data to speak!
 
-I’m a Data Science Master’s graduate from Clarkson University who enjoys building systems that can learn, predict, analyze, and understand human language.
+I’m a Data Science Master’s graduate from Clarkson University who enjoys building systems that can learn, predict, analyze, and understand human language.I enjoy creating solutions that are not only accurate, but meaningful whether that means extracting insights from messy data, training NLP models, or designing systems that solve real-world problems.
 
 ## A Few Things I’ve Worked On
 
-1. NLP pipelines for skill extraction from job descriptions
+1. Extraction of skill from unstructured job descriptions using Named entity recoginition
 2. Market trend analysis from job postings
-3. ML models for prediction & classification
-4. Data storytelling through analytics & visualization
-5. Turning unstructured data into actionable insight
+3. Flight Phase Based Prediction of Animal Species Involved in Aircraft Wildlife Strikes
 
 ## What I Do
 #### ✦ Machine Learning
-### ✦ Natural Language Processing
-### ✦ Data Analytics
-### ✦ Intelligent Automation
-### ✦ Scalable Software Systems
+#### ✦ Natural Language Processing
+#### ✦ Data Analytics
+#### ✦ Intelligent Automation
+#### ✦ Scalable Software Systems
 
-I enjoy creating solutions that are not only accurate, but meaningful whether that means extracting insights from messy data, training NLP models, or designing systems that solve real-world problems.
+
 
 ⚙️ My Tech Stack
 
