@@ -6,7 +6,8 @@ I’m a Data Science Master’s graduate from Clarkson University who enjoys bui
 
 1. Extraction of skill from unstructured job descriptions using Named entity recoginition
 2. Market trend analysis from job postings
-3. Flight Phase Based Prediction of Animal Species Involved in Aircraft Wildlife Strikes
+3. Flight Phase Based Prediction model of Animal Species Involved in Aircraft Wildlife Strikes
+4. Exploratory and Predictive Analysis of Data Science Salaries
 
 ## What I Do
 #### ✦ Machine Learning
@@ -33,7 +34,6 @@ I’m a Data Science Master’s graduate from Clarkson University who enjoys bui
 
 #### Bonus Skill
 ######     ISTQB Certified Tester, because intelligent systems should also be reliable systems.
-
 
 I enjoy turning data into meaningful insights, building intelligent systems, and solving real-world problems with scalable solutions.
 
