@@ -2,20 +2,14 @@
 
 I’m a Data Science Master’s graduate from Clarkson University who enjoys building systems that can learn, predict, analyze, and understand human language.
 
-```Some people see datasets.
-I see patterns waiting to become decisions.
+# What I Do
+### ✦ Machine Learning
+### ✦ Natural Language Processing
+### ✦ Data Analytics
+### ✦ Intelligent Automation
+### ✦ Scalable Software Systems
 
-Some people read text.
-I build models that learn from it.
-```
-🧠 What I Do
-#### ✦ Machine Learning
-#### ✦ Natural Language Processing
-#### ✦ Data Analytics
-#### ✦ Intelligent Automation
-#### ✦ Scalable Software Systems
-
-I enjoy creating solutions that are not only accurate, but meaningful — whether that means extracting insights from messy data, training NLP models, or designing systems that solve real-world problems.
+I enjoy creating solutions that are not only accurate, but meaningful whether that means extracting insights from messy data, training NLP models, or designing systems that solve real-world problems.
 
 ⚙️ My Tech Stack
 
